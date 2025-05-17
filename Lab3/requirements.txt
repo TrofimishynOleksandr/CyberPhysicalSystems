@@ -1,0 +1,7 @@
+sqlalchemy
+pandas
+psycopg2-binary
+scikit-learn
+joblib
+streamlit
+pytest

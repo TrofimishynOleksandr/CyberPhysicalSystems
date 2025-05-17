@@ -1,0 +1,10 @@
+{
+  "db": {
+    "name": "weather_forecast",
+    "user": "user",
+    "password": "password",
+    "host": "localhost",
+    "port": 5432
+  },
+  "csv_path": "data/weather_dataset.csv"
+}

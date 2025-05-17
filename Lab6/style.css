@@ -1,0 +1,28 @@
+body { 
+    font-family: sans-serif; 
+    padding: 20px; 
+}
+
+#grid { 
+    display: grid; 
+    margin-top: 10px; 
+}
+
+.cell {
+    width: 10px;
+    height: 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
+.S { 
+    background-color: lightgreen; 
+}
+
+.I {
+    background-color: red; 
+}
+
+.R { 
+    background-color: gray; 
+}
